@@ -23,8 +23,12 @@ minDistBetweenBlob = min distance between blobs to filter out hallucination that
 Python 3.7 or higher is required. Install the dependencies using pip:<br>
     -- put this in terminal --<br>
     pip install opencv-python numpy<br>
+or just install anaconda
 
-
+# how to use
+1. clone github into vs code
+2. if error not found module cv2 Press ctrl+shift+p or cmd+shift+p and type Python:select interpreter and choose with anaconda3
+3. run the program
 # Get the image in my program
 
 1. Place your input image in the same folder as the script.<br>
